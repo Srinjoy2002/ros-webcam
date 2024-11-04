@@ -1,0 +1,8 @@
+prefix=/home/srinjoy/ros_webcam_ws/devel
+
+Name: webcam_object_recognition
+Description: Description of webcam_object_recognition
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

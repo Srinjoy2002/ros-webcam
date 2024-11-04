@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/srinjoy/ros_webcam_ws/install/setup.sh

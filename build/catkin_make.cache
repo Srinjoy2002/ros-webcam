@@ -1,0 +1,2 @@
+webcam_object_recognition
+-DCATKIN_DEVEL_PREFIX=/home/srinjoy/ros_webcam_ws/devel -DCMAKE_INSTALL_PREFIX=/home/srinjoy/ros_webcam_ws/install -G Unix Makefiles
