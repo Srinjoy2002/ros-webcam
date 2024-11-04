@@ -1,10 +1,10 @@
-# Webcam Object Recognition with ROS and OpenCV
+** Webcam Object Recognition with ROS and OpenCV **
 
-## 🌟 Overview
+🌟 Overview
 
 Welcome to the **Webcam Object Recognition** project! In this endeavor, we've combined the power of **ROS** (Robot Operating System) with **OpenCV** to create a real-time object detection system. The magic happens as your webcam captures video, and our program identifies objects (like faces) in the feed, bringing the results to life in the **RViz** visualization environment. It’s an exciting way to see computer vision in action!
 
-## 📋 Prerequisites
+📋 Prerequisites
 
 Before diving in, let’s make sure you have everything you need:
 
@@ -13,7 +13,7 @@ Before diving in, let’s make sure you have everything you need:
 - **Python 3**: Our scripts run on Python 3, so ensure it's installed.
 - **cv_bridge**: This handy package helps convert ROS images to OpenCV format.
 
-## 🚀 Installation
+🚀 Installation
 
 Let’s get your workspace set up:
 
