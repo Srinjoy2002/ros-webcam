@@ -1,4 +1,6 @@
-Here's a simplified, plain text version:
+
+
+
 
 ---
 
